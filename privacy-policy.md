@@ -59,4 +59,4 @@ This Privacy Policy may be updated if the app changes, especially if features su
 
 For questions about this Privacy Policy, contact:
 
-[Your email address]
+contact.countdowntodo@gmail.com
