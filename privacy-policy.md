@@ -1,6 +1,6 @@
 # Privacy Policy for SOS Flash Signal
 
-Effective date: [Insert date]
+Effective date: 6-23-2026
 
 SOS Flash Signal is designed as an offline utility app for SOS signaling, Morse code, flashlight control, screen light, and sound alerts.
 
